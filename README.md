@@ -6,8 +6,8 @@ OHDSI Comparative effectiveness and safety of direct ORal Anticoagulants in pati
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
 - Tags: **-**
-- Study lead: **Wallis CY Lau, PhD, UCL School of Pharmacy, United Kingdom**
-- Study lead forums tag: **[wallislau](https://forums.ohdsi.org/u/wallislau)**
+- Study lead: **Wallis CY Lau, PhD, UCL School of Pharmacy, United Kingdom; Carmen Olga Torre, RWS IQVIA, United Kingdom**
+- Study lead forums tag: **[wallislau](https://forums.ohdsi.org/u/wallislau), [CarmenOT](https://forums.ohdsi.org/u/carmenot)**
 - Study start date: **-**
 - Study end date: **-**
 - Protocol: **-**
