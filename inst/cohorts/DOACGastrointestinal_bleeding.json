@@ -1,0 +1,842 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4027729,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "12847006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute duodenal ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4336230,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "86895006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute duodenal ulcer with hemorrhage AND perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4231580,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "89748001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute gastric ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4169592,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "48974009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute gastric ulcer with hemorrhage and perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4274491,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "63954007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute gastrojejunal ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4217947,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "81387001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute gastrojejunal ulcer with hemorrhage and perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 193249,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "2367005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute hemorrhagic gastritis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4046500,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "12274003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute peptic ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4006994,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "111353003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Acute peptic ulcer with hemorrhage and perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4149861,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "267055007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Black feces",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4092938,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "281102003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Blood in vomit - symptom",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4155093,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "272045003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "C/O - melena",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4232181,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "89469000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic duodenal ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4211001,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "57246001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic gastric ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4294973,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "76181002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic gastric ulcer with hemorrhage and with perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 433515,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "62838000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic gastrojejunal ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 437326,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "46523000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic gastrojejunal ulcer with hemorrhage and with perforation but without obstruction",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4174044,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "49232000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic peptic ulcer with hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4247008,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "61300005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic peptic ulcer with hemorrhage AND perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4148536,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "35064005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dark stools",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 198798,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "109558001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dieulafoy's vascular malformation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4031954,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "23812009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Duodenal ulcer with hemorrhage AND perforation",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4195152,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "44380002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Endoscopic control of gastric bleeding",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4152684,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "269900004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Feces: fresh blood present",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 193250,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "61401005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastric hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45757783,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "40241000119109",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastric hemorrhage due to alcoholic gastritis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46270145,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "150721000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastric hemorrhage due to atrophic gastritis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46270025,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "123411000119106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastric hemorrhage due to eosinophilic gastritis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46269911,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1087161000119105",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastric hemorrhage due to hypertrophic gastritis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 192671,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "74474003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Gastrointestinal hemorrhage",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 26727,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "8765009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hematemesis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 443530,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "405729008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hematochezia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 442190,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95540002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemorrhage of colon",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45757543,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "190191000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemorrhage of colon due to diverticulosis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 197925,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "266464001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemorrhage of rectum and anus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46269901,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1086461000119101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemorrhage of small intestine due to diverticulitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46270529,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "40271000119102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemorrhage of small intestine with diverticulosis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 437027,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95531001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hemorrhagic duodenitis",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40485318,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "442805003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Incision of stomach and suture of bleeding gastric ulcer",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 45757654,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "29731000119103",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Intestinal hemorrhage due to angiodysplasia of intestine",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4103703,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "2901004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Melena",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4242106,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "59614000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Occult blood in stools",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4189790,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "414991007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Painful rectal bleeding",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4212456,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "414992000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Painless rectal bleeding",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 43021552,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "473276009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Suture plication of artery for control of rectal hemorrhage",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4291649,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "37372002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Upper gastrointestinal bleeding",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[DOAC]Gastrointestinal bleeding",
+    "id": 1
+  }],
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "ConditionTypeExclude": false,
+        "CodesetId": 1,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "ConditionType": null,
+        "ConditionSourceConcept": null,
+        "StopReason": null,
+        "Age": null
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": null,
+        "CodesetId": 1,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "Modifier": null,
+        "Age": null
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
