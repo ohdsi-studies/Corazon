@@ -5,13 +5,13 @@ OHDSI Comparative effectiveness and safety of direct ORal Anticoagulants in pati
 
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
-- Tags: **-**
+- Tags: **OHDSI, DOAC, AF**
 - Study lead: **Wallis CY Lau, PhD, UCL School of Pharmacy, United Kingdom**; 
                   **Carmen Olga Torre, RWS IQVIA, United Kingdom**
 - Study lead forums tag: **[wallislau](https://forums.ohdsi.org/u/wallislau), [CarmenOT](https://forums.ohdsi.org/u/carmenot)**
 - Study start date: **22/09/2020**
-- Study end date: **-**
-- Protocol: **- ```documents/OHDSI Protocol CORAZON V2.0_clean.docx```**
+- Study end date: **12/2020**
+- Protocol: **[Word Doc](https://github.com/ohdsi-studies/Corazon/blob/master/documents/OHDSI%20Protocol%20CORAZON%20V2.0_clean.docx)**
 - Publications: **-**
 - Results explorer: **-**
 
@@ -155,13 +155,14 @@ How to run
 	uploadResults(outputFolder, privateKeyFileName = "<file>", userName = "<name>")
 	```
 	
-
-	prepareForEvidenceExplorer("Result_<databaseId>.zip", "/shinyData")
-	launchEvidenceExplorer("/shinyData", blind = TRUE)	Where ```<file>``` and ```<name<``` are the credentials provided to you personally by the study coordinator.
+	Where ```<file>``` and ```<name>``` are the credentials provided to you personally by the study coordinator.
 		
 5. To view the results, use the Shiny app:
 
 	```r
+	
+	prepareForEvidenceExplorer("Result_<databaseId>.zip", "/shinyData")
+	launchEvidenceExplorer("/shinyData", blind = TRUE)	
 	```
   
   Note that you can save plots from within the Shiny app. It is possible to view results from more than one database by applying `prepareForEvidenceExplorer` to the Results file from each database, and using the same data folder. Set `blind = FALSE` if you wish to be unblinded to the final results.
@@ -174,9 +175,9 @@ Development
 ===========
 corazon was developed in ATLAS and R Studio.
 
-### Development status
-
-Unknown
+Results
+===========
+Please send an email with title "corazon results" to [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com) to notify you have dropped results in the folder or to send your "Result_<databaseId>.zip". 
 
 
 
