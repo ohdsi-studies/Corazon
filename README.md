@@ -76,6 +76,8 @@ How to run
 2. In `R`, use the following code to install the dependencies:
 
 	```r
+	# When asked to update packages, select '1' ('update all') (could be multiple times)
+	# When asked whether to install from source, select 'No' (could be multiple times)
 	install.packages("remotes")
 	library(remotes)
 	install_github("ohdsi/ParallelLogger", ref = "v2.0.0")
@@ -91,7 +93,8 @@ How to run
 3. In `R`, use the following `devtools` command to install the corazon package:
 
 	```r
-	install() # Note: it is ok to delete inst/doc
+	install.packages("devtools")
+	devtools::install_github("ohdsi-studies/Corazon")
 	```
 	
 3. Once installed, you can execute the study by modifying and using the code below. For your convenience, this code is also provided under `extras/CodeToRun.R`:
@@ -149,14 +152,9 @@ How to run
             maxCores = maxCores)
 	```
 
-4. Upload the file ```export/Results_<DatabaseId>.zip``` in the output folder to the study coordinator:
-
-	```r
-	uploadResults(outputFolder, privateKeyFileName = "<file>", userName = "<name>")
-	```
+4. Send the file ```export/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com)
 	
-	Where ```<file>``` and ```<name>``` are the credentials provided to you personally by the study coordinator.
-		
+	
 5. To view the results, use the Shiny app:
 
 	```r
@@ -177,7 +175,7 @@ corazon was developed in ATLAS and R Studio.
 
 Results
 ===========
-Please send an email with title "corazon results" to [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com) to notify you have dropped results in the folder or to send your "Result_<databaseId>.zip". 
+Send the file ```export/Results_<DatabaseId>.zip``` in the output folder to the study coordinator [Carmen O. Torre](mailto:carmenolga.torre@iqvia.com).
 
 
 
