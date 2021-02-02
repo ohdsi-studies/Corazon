@@ -6,14 +6,14 @@ OHDSI Comparative effectiveness and safety of direct ORal Anticoagulants in pati
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
 - Tags: **OHDSI, DOAC, AF**
-- Study lead: **Wallis CY Lau, PhD, UCL School of Pharmacy, United Kingdom**; 
-                  **Carmen Olga Torre, RWS IQVIA, United Kingdom**
+- Study lead: **Wallis CY Lau**; 
+                  **Carmen Olga Torre**
 - Study lead forums tag: **[wallislau](https://forums.ohdsi.org/u/wallislau), [CarmenOT](https://forums.ohdsi.org/u/carmenot)**
 - Study start date: **22/09/2020**
 - Study end date: **12/2020**
 - Protocol: **[Word Doc](https://github.com/ohdsi-studies/Corazon/blob/master/documents/OHDSI%20Protocol%20CORAZON%20V2.0_clean.docx)**
 - Publications: **-**
-- Results explorer: **-**
+- Results explorer: **https://data.ohdsi.org/corazon/**
 
 Notice
 ============
