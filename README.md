@@ -1,7 +1,7 @@
 OHDSI Comparative effectiveness and safety of direct ORal Anticoagulants in patients with atrial fibrillation: a standardiZed Observational data Network study (CORAZON)
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
+<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available">
 
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
