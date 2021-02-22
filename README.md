@@ -28,6 +28,7 @@ Atrial fibrillation (AF) is the most common cardiac arrhythmia affecting over 33
 Objectives
 ============
 We are interested in every pairwise comparison between any two DOACs (dabigatran, rivaroxaban, apixaban, and edoxaban). For each comparison, we are interested in the comparative effect on 1) a composite of ischemic stroke and systemic embolism; 2) intracranial bleeding; 3) gastrointestinal bleeding; and 4) all-cause mortality.
+
 ### Primary analyses: 
 For each comparison between two DOACs, for each of the outcomes of interest, what is the hazard ratio? 
 ### Subgroup analyses: 
