@@ -45,12 +45,6 @@ Patient-level data where each DOAC drug cohort (including edoxaban) has more tha
 Plans for Results Dissemination
 ============
 We intend to publish our findings in a peer-reviewed journal.
-Target journal
-1.	Lancet (60.392)
-2.	JAMA (45.540)
-3.	BMJ (30.223)
-4.	Circulation (23.603)
-5.	Journal of the American College of Cardiology (20.589) 
 
 Timelines
 ============
