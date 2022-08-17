@@ -1,53 +1,53 @@
 targetId,comparatorId,outcomeId,outcomeName,type
-2319,2318,437643,Abnormal gait,outcome
-2319,2318,260139,Acute bronchitis,outcome
-2319,2318,257007,Allergic rhinitis,outcome
-2319,2318,442077,Anxiety disorder,outcome
-2319,2318,4153359,Arthritis of spine,outcome
-2319,2318,4324765,Arthropathy of knee joint,outcome
-2319,2318,261880,Atelectasis,outcome
-2319,2318,443344,Barrett's esophagus,outcome
-2319,2318,378425,Blepharitis,outcome
-2319,2318,256449,Bronchiectasis,outcome
-2319,2318,313791,Bundle branch block,outcome
-2319,2318,435613,Cellulitis,outcome
-2319,2318,257012,Chronic sinusitis,outcome
-2319,2318,134441,Chronic ulcer of skin,outcome
-2319,2318,4150614,Communication disorder,outcome
-2319,2318,201606,Crohn's disease,outcome
-2319,2318,73302,Curvature of spine,outcome
-2319,2318,4242416,Cutis laxa,outcome
-2319,2318,74726,Dislocation of joint,outcome
-2319,2318,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2319,2318,435657,Dyssomnia,outcome
-2319,2318,197684,Dysuria,outcome
-2319,2318,79903,Effusion of joint,outcome
-2319,2318,4050747,Fracture of upper limb,outcome
-2319,2318,196456,Gallstone,outcome
-2319,2318,4007453,Gammopathy,outcome
-2319,2318,441788,Human papilloma virus infection,outcome
-2319,2318,197032,Hyperplasia of prostate,outcome
-2319,2318,4208390,Inflammation of sacroiliac joint,outcome
-2319,2318,139099,Ingrowing nail,outcome
-2319,2318,4112853,Malignant tumor of breast,outcome
-2319,2318,374919,Multiple sclerosis,outcome
-2319,2318,24134,Neck pain,outcome
-2319,2318,433736,Obesity,outcome
-2319,2318,141663,Osteomyelitis,outcome
-2319,2318,372328,Otitis media,outcome
-2319,2318,78162,Peripheral vertigo,outcome
-2319,2318,4002650,Plantar fasciitis,outcome
-2319,2318,373478,Presbyopia,outcome
-2319,2318,199876,Prolapse of female genital organs,outcome
-2319,2318,436073,Psychotic disorder,outcome
-2319,2318,4174977,Retinopathy due to diabetes mellitus,outcome
-2319,2318,141932,Senile hyperkeratosis,outcome
-2319,2318,141825,Simple goiter,outcome
-2319,2318,313459,Sleep apnea,outcome
-2319,2318,4077081,Superficial mycosis,outcome
-2319,2318,193326,Urge incontinence of urine,outcome
-2319,2318,81902,Urinary tract infectious disease,outcome
-2319,2318,140641,Verruca vulgaris,outcome
+2318,2319,437643,Abnormal gait,outcome
+2318,2319,260139,Acute bronchitis,outcome
+2318,2319,257007,Allergic rhinitis,outcome
+2318,2319,442077,Anxiety disorder,outcome
+2318,2319,4153359,Arthritis of spine,outcome
+2318,2319,4324765,Arthropathy of knee joint,outcome
+2318,2319,261880,Atelectasis,outcome
+2318,2319,443344,Barrett's esophagus,outcome
+2318,2319,378425,Blepharitis,outcome
+2318,2319,256449,Bronchiectasis,outcome
+2318,2319,313791,Bundle branch block,outcome
+2318,2319,435613,Cellulitis,outcome
+2318,2319,257012,Chronic sinusitis,outcome
+2318,2319,134441,Chronic ulcer of skin,outcome
+2318,2319,4150614,Communication disorder,outcome
+2318,2319,201606,Crohn's disease,outcome
+2318,2319,73302,Curvature of spine,outcome
+2318,2319,4242416,Cutis laxa,outcome
+2318,2319,74726,Dislocation of joint,outcome
+2318,2319,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2318,2319,435657,Dyssomnia,outcome
+2318,2319,197684,Dysuria,outcome
+2318,2319,79903,Effusion of joint,outcome
+2318,2319,4050747,Fracture of upper limb,outcome
+2318,2319,196456,Gallstone,outcome
+2318,2319,4007453,Gammopathy,outcome
+2318,2319,441788,Human papilloma virus infection,outcome
+2318,2319,197032,Hyperplasia of prostate,outcome
+2318,2319,4208390,Inflammation of sacroiliac joint,outcome
+2318,2319,139099,Ingrowing nail,outcome
+2318,2319,4112853,Malignant tumor of breast,outcome
+2318,2319,374919,Multiple sclerosis,outcome
+2318,2319,24134,Neck pain,outcome
+2318,2319,433736,Obesity,outcome
+2318,2319,141663,Osteomyelitis,outcome
+2318,2319,372328,Otitis media,outcome
+2318,2319,78162,Peripheral vertigo,outcome
+2318,2319,4002650,Plantar fasciitis,outcome
+2318,2319,373478,Presbyopia,outcome
+2318,2319,199876,Prolapse of female genital organs,outcome
+2318,2319,436073,Psychotic disorder,outcome
+2318,2319,4174977,Retinopathy due to diabetes mellitus,outcome
+2318,2319,141932,Senile hyperkeratosis,outcome
+2318,2319,141825,Simple goiter,outcome
+2318,2319,313459,Sleep apnea,outcome
+2318,2319,4077081,Superficial mycosis,outcome
+2318,2319,193326,Urge incontinence of urine,outcome
+2318,2319,81902,Urinary tract infectious disease,outcome
+2318,2319,140641,Verruca vulgaris,outcome
 2319,2317,437643,Abnormal gait,outcome
 2319,2317,260139,Acute bronchitis,outcome
 2319,2317,257007,Allergic rhinitis,outcome
@@ -97,55 +97,55 @@ targetId,comparatorId,outcomeId,outcomeName,type
 2319,2317,193326,Urge incontinence of urine,outcome
 2319,2317,81902,Urinary tract infectious disease,outcome
 2319,2317,140641,Verruca vulgaris,outcome
-2319,2316,437643,Abnormal gait,outcome
-2319,2316,260139,Acute bronchitis,outcome
-2319,2316,257007,Allergic rhinitis,outcome
-2319,2316,442077,Anxiety disorder,outcome
-2319,2316,4153359,Arthritis of spine,outcome
-2319,2316,4324765,Arthropathy of knee joint,outcome
-2319,2316,261880,Atelectasis,outcome
-2319,2316,443344,Barrett's esophagus,outcome
-2319,2316,378425,Blepharitis,outcome
-2319,2316,256449,Bronchiectasis,outcome
-2319,2316,313791,Bundle branch block,outcome
-2319,2316,435613,Cellulitis,outcome
-2319,2316,257012,Chronic sinusitis,outcome
-2319,2316,134441,Chronic ulcer of skin,outcome
-2319,2316,4150614,Communication disorder,outcome
-2319,2316,201606,Crohn's disease,outcome
-2319,2316,73302,Curvature of spine,outcome
-2319,2316,4242416,Cutis laxa,outcome
-2319,2316,74726,Dislocation of joint,outcome
-2319,2316,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2319,2316,435657,Dyssomnia,outcome
-2319,2316,197684,Dysuria,outcome
-2319,2316,79903,Effusion of joint,outcome
-2319,2316,4050747,Fracture of upper limb,outcome
-2319,2316,196456,Gallstone,outcome
-2319,2316,4007453,Gammopathy,outcome
-2319,2316,441788,Human papilloma virus infection,outcome
-2319,2316,197032,Hyperplasia of prostate,outcome
-2319,2316,4208390,Inflammation of sacroiliac joint,outcome
-2319,2316,139099,Ingrowing nail,outcome
-2319,2316,4112853,Malignant tumor of breast,outcome
-2319,2316,374919,Multiple sclerosis,outcome
-2319,2316,24134,Neck pain,outcome
-2319,2316,433736,Obesity,outcome
-2319,2316,141663,Osteomyelitis,outcome
-2319,2316,372328,Otitis media,outcome
-2319,2316,78162,Peripheral vertigo,outcome
-2319,2316,4002650,Plantar fasciitis,outcome
-2319,2316,373478,Presbyopia,outcome
-2319,2316,199876,Prolapse of female genital organs,outcome
-2319,2316,436073,Psychotic disorder,outcome
-2319,2316,4174977,Retinopathy due to diabetes mellitus,outcome
-2319,2316,141932,Senile hyperkeratosis,outcome
-2319,2316,141825,Simple goiter,outcome
-2319,2316,313459,Sleep apnea,outcome
-2319,2316,4077081,Superficial mycosis,outcome
-2319,2316,193326,Urge incontinence of urine,outcome
-2319,2316,81902,Urinary tract infectious disease,outcome
-2319,2316,140641,Verruca vulgaris,outcome
+2316,2319,437643,Abnormal gait,outcome
+2316,2319,260139,Acute bronchitis,outcome
+2316,2319,257007,Allergic rhinitis,outcome
+2316,2319,442077,Anxiety disorder,outcome
+2316,2319,4153359,Arthritis of spine,outcome
+2316,2319,4324765,Arthropathy of knee joint,outcome
+2316,2319,261880,Atelectasis,outcome
+2316,2319,443344,Barrett's esophagus,outcome
+2316,2319,378425,Blepharitis,outcome
+2316,2319,256449,Bronchiectasis,outcome
+2316,2319,313791,Bundle branch block,outcome
+2316,2319,435613,Cellulitis,outcome
+2316,2319,257012,Chronic sinusitis,outcome
+2316,2319,134441,Chronic ulcer of skin,outcome
+2316,2319,4150614,Communication disorder,outcome
+2316,2319,201606,Crohn's disease,outcome
+2316,2319,73302,Curvature of spine,outcome
+2316,2319,4242416,Cutis laxa,outcome
+2316,2319,74726,Dislocation of joint,outcome
+2316,2319,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2316,2319,435657,Dyssomnia,outcome
+2316,2319,197684,Dysuria,outcome
+2316,2319,79903,Effusion of joint,outcome
+2316,2319,4050747,Fracture of upper limb,outcome
+2316,2319,196456,Gallstone,outcome
+2316,2319,4007453,Gammopathy,outcome
+2316,2319,441788,Human papilloma virus infection,outcome
+2316,2319,197032,Hyperplasia of prostate,outcome
+2316,2319,4208390,Inflammation of sacroiliac joint,outcome
+2316,2319,139099,Ingrowing nail,outcome
+2316,2319,4112853,Malignant tumor of breast,outcome
+2316,2319,374919,Multiple sclerosis,outcome
+2316,2319,24134,Neck pain,outcome
+2316,2319,433736,Obesity,outcome
+2316,2319,141663,Osteomyelitis,outcome
+2316,2319,372328,Otitis media,outcome
+2316,2319,78162,Peripheral vertigo,outcome
+2316,2319,4002650,Plantar fasciitis,outcome
+2316,2319,373478,Presbyopia,outcome
+2316,2319,199876,Prolapse of female genital organs,outcome
+2316,2319,436073,Psychotic disorder,outcome
+2316,2319,4174977,Retinopathy due to diabetes mellitus,outcome
+2316,2319,141932,Senile hyperkeratosis,outcome
+2316,2319,141825,Simple goiter,outcome
+2316,2319,313459,Sleep apnea,outcome
+2316,2319,4077081,Superficial mycosis,outcome
+2316,2319,193326,Urge incontinence of urine,outcome
+2316,2319,81902,Urinary tract infectious disease,outcome
+2316,2319,140641,Verruca vulgaris,outcome
 2318,2317,437643,Abnormal gait,outcome
 2318,2317,260139,Acute bronchitis,outcome
 2318,2317,257007,Allergic rhinitis,outcome
@@ -195,251 +195,251 @@ targetId,comparatorId,outcomeId,outcomeName,type
 2318,2317,193326,Urge incontinence of urine,outcome
 2318,2317,81902,Urinary tract infectious disease,outcome
 2318,2317,140641,Verruca vulgaris,outcome
-2318,2316,437643,Abnormal gait,outcome
-2318,2316,260139,Acute bronchitis,outcome
-2318,2316,257007,Allergic rhinitis,outcome
-2318,2316,442077,Anxiety disorder,outcome
-2318,2316,4153359,Arthritis of spine,outcome
-2318,2316,4324765,Arthropathy of knee joint,outcome
-2318,2316,261880,Atelectasis,outcome
-2318,2316,443344,Barrett's esophagus,outcome
-2318,2316,378425,Blepharitis,outcome
-2318,2316,256449,Bronchiectasis,outcome
-2318,2316,313791,Bundle branch block,outcome
-2318,2316,435613,Cellulitis,outcome
-2318,2316,257012,Chronic sinusitis,outcome
-2318,2316,134441,Chronic ulcer of skin,outcome
-2318,2316,4150614,Communication disorder,outcome
-2318,2316,201606,Crohn's disease,outcome
-2318,2316,73302,Curvature of spine,outcome
-2318,2316,4242416,Cutis laxa,outcome
-2318,2316,74726,Dislocation of joint,outcome
-2318,2316,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2318,2316,435657,Dyssomnia,outcome
-2318,2316,197684,Dysuria,outcome
-2318,2316,79903,Effusion of joint,outcome
-2318,2316,4050747,Fracture of upper limb,outcome
-2318,2316,196456,Gallstone,outcome
-2318,2316,4007453,Gammopathy,outcome
-2318,2316,441788,Human papilloma virus infection,outcome
-2318,2316,197032,Hyperplasia of prostate,outcome
-2318,2316,4208390,Inflammation of sacroiliac joint,outcome
-2318,2316,139099,Ingrowing nail,outcome
-2318,2316,4112853,Malignant tumor of breast,outcome
-2318,2316,374919,Multiple sclerosis,outcome
-2318,2316,24134,Neck pain,outcome
-2318,2316,433736,Obesity,outcome
-2318,2316,141663,Osteomyelitis,outcome
-2318,2316,372328,Otitis media,outcome
-2318,2316,78162,Peripheral vertigo,outcome
-2318,2316,4002650,Plantar fasciitis,outcome
-2318,2316,373478,Presbyopia,outcome
-2318,2316,199876,Prolapse of female genital organs,outcome
-2318,2316,436073,Psychotic disorder,outcome
-2318,2316,4174977,Retinopathy due to diabetes mellitus,outcome
-2318,2316,141932,Senile hyperkeratosis,outcome
-2318,2316,141825,Simple goiter,outcome
-2318,2316,313459,Sleep apnea,outcome
-2318,2316,4077081,Superficial mycosis,outcome
-2318,2316,193326,Urge incontinence of urine,outcome
-2318,2316,81902,Urinary tract infectious disease,outcome
-2318,2316,140641,Verruca vulgaris,outcome
-2317,2316,437643,Abnormal gait,outcome
-2317,2316,260139,Acute bronchitis,outcome
-2317,2316,257007,Allergic rhinitis,outcome
-2317,2316,442077,Anxiety disorder,outcome
-2317,2316,4153359,Arthritis of spine,outcome
-2317,2316,4324765,Arthropathy of knee joint,outcome
-2317,2316,261880,Atelectasis,outcome
-2317,2316,443344,Barrett's esophagus,outcome
-2317,2316,378425,Blepharitis,outcome
-2317,2316,256449,Bronchiectasis,outcome
-2317,2316,313791,Bundle branch block,outcome
-2317,2316,435613,Cellulitis,outcome
-2317,2316,257012,Chronic sinusitis,outcome
-2317,2316,134441,Chronic ulcer of skin,outcome
-2317,2316,4150614,Communication disorder,outcome
-2317,2316,201606,Crohn's disease,outcome
-2317,2316,73302,Curvature of spine,outcome
-2317,2316,4242416,Cutis laxa,outcome
-2317,2316,74726,Dislocation of joint,outcome
-2317,2316,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2317,2316,435657,Dyssomnia,outcome
-2317,2316,197684,Dysuria,outcome
-2317,2316,79903,Effusion of joint,outcome
-2317,2316,4050747,Fracture of upper limb,outcome
-2317,2316,196456,Gallstone,outcome
-2317,2316,4007453,Gammopathy,outcome
-2317,2316,441788,Human papilloma virus infection,outcome
-2317,2316,197032,Hyperplasia of prostate,outcome
-2317,2316,4208390,Inflammation of sacroiliac joint,outcome
-2317,2316,139099,Ingrowing nail,outcome
-2317,2316,4112853,Malignant tumor of breast,outcome
-2317,2316,374919,Multiple sclerosis,outcome
-2317,2316,24134,Neck pain,outcome
-2317,2316,433736,Obesity,outcome
-2317,2316,141663,Osteomyelitis,outcome
-2317,2316,372328,Otitis media,outcome
-2317,2316,78162,Peripheral vertigo,outcome
-2317,2316,4002650,Plantar fasciitis,outcome
-2317,2316,373478,Presbyopia,outcome
-2317,2316,199876,Prolapse of female genital organs,outcome
-2317,2316,436073,Psychotic disorder,outcome
-2317,2316,4174977,Retinopathy due to diabetes mellitus,outcome
-2317,2316,141932,Senile hyperkeratosis,outcome
-2317,2316,141825,Simple goiter,outcome
-2317,2316,313459,Sleep apnea,outcome
-2317,2316,4077081,Superficial mycosis,outcome
-2317,2316,193326,Urge incontinence of urine,outcome
-2317,2316,81902,Urinary tract infectious disease,outcome
-2317,2316,140641,Verruca vulgaris,outcome
-2646,2648,437643,Abnormal gait,outcome
-2646,2648,260139,Acute bronchitis,outcome
-2646,2648,257007,Allergic rhinitis,outcome
-2646,2648,442077,Anxiety disorder,outcome
-2646,2648,4153359,Arthritis of spine,outcome
-2646,2648,4324765,Arthropathy of knee joint,outcome
-2646,2648,261880,Atelectasis,outcome
-2646,2648,443344,Barrett's esophagus,outcome
-2646,2648,378425,Blepharitis,outcome
-2646,2648,256449,Bronchiectasis,outcome
-2646,2648,313791,Bundle branch block,outcome
-2646,2648,435613,Cellulitis,outcome
-2646,2648,257012,Chronic sinusitis,outcome
-2646,2648,134441,Chronic ulcer of skin,outcome
-2646,2648,4150614,Communication disorder,outcome
-2646,2648,201606,Crohn's disease,outcome
-2646,2648,73302,Curvature of spine,outcome
-2646,2648,4242416,Cutis laxa,outcome
-2646,2648,74726,Dislocation of joint,outcome
-2646,2648,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2646,2648,435657,Dyssomnia,outcome
-2646,2648,197684,Dysuria,outcome
-2646,2648,79903,Effusion of joint,outcome
-2646,2648,4050747,Fracture of upper limb,outcome
-2646,2648,196456,Gallstone,outcome
-2646,2648,4007453,Gammopathy,outcome
-2646,2648,441788,Human papilloma virus infection,outcome
-2646,2648,197032,Hyperplasia of prostate,outcome
-2646,2648,4208390,Inflammation of sacroiliac joint,outcome
-2646,2648,139099,Ingrowing nail,outcome
-2646,2648,4112853,Malignant tumor of breast,outcome
-2646,2648,374919,Multiple sclerosis,outcome
-2646,2648,24134,Neck pain,outcome
-2646,2648,433736,Obesity,outcome
-2646,2648,141663,Osteomyelitis,outcome
-2646,2648,372328,Otitis media,outcome
-2646,2648,78162,Peripheral vertigo,outcome
-2646,2648,4002650,Plantar fasciitis,outcome
-2646,2648,373478,Presbyopia,outcome
-2646,2648,199876,Prolapse of female genital organs,outcome
-2646,2648,436073,Psychotic disorder,outcome
-2646,2648,4174977,Retinopathy due to diabetes mellitus,outcome
-2646,2648,141932,Senile hyperkeratosis,outcome
-2646,2648,141825,Simple goiter,outcome
-2646,2648,313459,Sleep apnea,outcome
-2646,2648,4077081,Superficial mycosis,outcome
-2646,2648,193326,Urge incontinence of urine,outcome
-2646,2648,81902,Urinary tract infectious disease,outcome
-2646,2648,140641,Verruca vulgaris,outcome
-2646,2650,437643,Abnormal gait,outcome
-2646,2650,260139,Acute bronchitis,outcome
-2646,2650,257007,Allergic rhinitis,outcome
-2646,2650,442077,Anxiety disorder,outcome
-2646,2650,4153359,Arthritis of spine,outcome
-2646,2650,4324765,Arthropathy of knee joint,outcome
-2646,2650,261880,Atelectasis,outcome
-2646,2650,443344,Barrett's esophagus,outcome
-2646,2650,378425,Blepharitis,outcome
-2646,2650,256449,Bronchiectasis,outcome
-2646,2650,313791,Bundle branch block,outcome
-2646,2650,435613,Cellulitis,outcome
-2646,2650,257012,Chronic sinusitis,outcome
-2646,2650,134441,Chronic ulcer of skin,outcome
-2646,2650,4150614,Communication disorder,outcome
-2646,2650,201606,Crohn's disease,outcome
-2646,2650,73302,Curvature of spine,outcome
-2646,2650,4242416,Cutis laxa,outcome
-2646,2650,74726,Dislocation of joint,outcome
-2646,2650,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2646,2650,435657,Dyssomnia,outcome
-2646,2650,197684,Dysuria,outcome
-2646,2650,79903,Effusion of joint,outcome
-2646,2650,4050747,Fracture of upper limb,outcome
-2646,2650,196456,Gallstone,outcome
-2646,2650,4007453,Gammopathy,outcome
-2646,2650,441788,Human papilloma virus infection,outcome
-2646,2650,197032,Hyperplasia of prostate,outcome
-2646,2650,4208390,Inflammation of sacroiliac joint,outcome
-2646,2650,139099,Ingrowing nail,outcome
-2646,2650,4112853,Malignant tumor of breast,outcome
-2646,2650,374919,Multiple sclerosis,outcome
-2646,2650,24134,Neck pain,outcome
-2646,2650,433736,Obesity,outcome
-2646,2650,141663,Osteomyelitis,outcome
-2646,2650,372328,Otitis media,outcome
-2646,2650,78162,Peripheral vertigo,outcome
-2646,2650,4002650,Plantar fasciitis,outcome
-2646,2650,373478,Presbyopia,outcome
-2646,2650,199876,Prolapse of female genital organs,outcome
-2646,2650,436073,Psychotic disorder,outcome
-2646,2650,4174977,Retinopathy due to diabetes mellitus,outcome
-2646,2650,141932,Senile hyperkeratosis,outcome
-2646,2650,141825,Simple goiter,outcome
-2646,2650,313459,Sleep apnea,outcome
-2646,2650,4077081,Superficial mycosis,outcome
-2646,2650,193326,Urge incontinence of urine,outcome
-2646,2650,81902,Urinary tract infectious disease,outcome
-2646,2650,140641,Verruca vulgaris,outcome
-2665,2663,437643,Abnormal gait,outcome
-2665,2663,260139,Acute bronchitis,outcome
-2665,2663,257007,Allergic rhinitis,outcome
-2665,2663,442077,Anxiety disorder,outcome
-2665,2663,4153359,Arthritis of spine,outcome
-2665,2663,4324765,Arthropathy of knee joint,outcome
-2665,2663,261880,Atelectasis,outcome
-2665,2663,443344,Barrett's esophagus,outcome
-2665,2663,378425,Blepharitis,outcome
-2665,2663,256449,Bronchiectasis,outcome
-2665,2663,313791,Bundle branch block,outcome
-2665,2663,435613,Cellulitis,outcome
-2665,2663,257012,Chronic sinusitis,outcome
-2665,2663,134441,Chronic ulcer of skin,outcome
-2665,2663,4150614,Communication disorder,outcome
-2665,2663,201606,Crohn's disease,outcome
-2665,2663,73302,Curvature of spine,outcome
-2665,2663,4242416,Cutis laxa,outcome
-2665,2663,74726,Dislocation of joint,outcome
-2665,2663,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2665,2663,435657,Dyssomnia,outcome
-2665,2663,197684,Dysuria,outcome
-2665,2663,79903,Effusion of joint,outcome
-2665,2663,4050747,Fracture of upper limb,outcome
-2665,2663,196456,Gallstone,outcome
-2665,2663,4007453,Gammopathy,outcome
-2665,2663,441788,Human papilloma virus infection,outcome
-2665,2663,197032,Hyperplasia of prostate,outcome
-2665,2663,4208390,Inflammation of sacroiliac joint,outcome
-2665,2663,139099,Ingrowing nail,outcome
-2665,2663,4112853,Malignant tumor of breast,outcome
-2665,2663,374919,Multiple sclerosis,outcome
-2665,2663,24134,Neck pain,outcome
-2665,2663,433736,Obesity,outcome
-2665,2663,141663,Osteomyelitis,outcome
-2665,2663,372328,Otitis media,outcome
-2665,2663,78162,Peripheral vertigo,outcome
-2665,2663,4002650,Plantar fasciitis,outcome
-2665,2663,373478,Presbyopia,outcome
-2665,2663,199876,Prolapse of female genital organs,outcome
-2665,2663,436073,Psychotic disorder,outcome
-2665,2663,4174977,Retinopathy due to diabetes mellitus,outcome
-2665,2663,141932,Senile hyperkeratosis,outcome
-2665,2663,141825,Simple goiter,outcome
-2665,2663,313459,Sleep apnea,outcome
-2665,2663,4077081,Superficial mycosis,outcome
-2665,2663,193326,Urge incontinence of urine,outcome
-2665,2663,81902,Urinary tract infectious disease,outcome
-2665,2663,140641,Verruca vulgaris,outcome
+2316,2318,437643,Abnormal gait,outcome
+2316,2318,260139,Acute bronchitis,outcome
+2316,2318,257007,Allergic rhinitis,outcome
+2316,2318,442077,Anxiety disorder,outcome
+2316,2318,4153359,Arthritis of spine,outcome
+2316,2318,4324765,Arthropathy of knee joint,outcome
+2316,2318,261880,Atelectasis,outcome
+2316,2318,443344,Barrett's esophagus,outcome
+2316,2318,378425,Blepharitis,outcome
+2316,2318,256449,Bronchiectasis,outcome
+2316,2318,313791,Bundle branch block,outcome
+2316,2318,435613,Cellulitis,outcome
+2316,2318,257012,Chronic sinusitis,outcome
+2316,2318,134441,Chronic ulcer of skin,outcome
+2316,2318,4150614,Communication disorder,outcome
+2316,2318,201606,Crohn's disease,outcome
+2316,2318,73302,Curvature of spine,outcome
+2316,2318,4242416,Cutis laxa,outcome
+2316,2318,74726,Dislocation of joint,outcome
+2316,2318,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2316,2318,435657,Dyssomnia,outcome
+2316,2318,197684,Dysuria,outcome
+2316,2318,79903,Effusion of joint,outcome
+2316,2318,4050747,Fracture of upper limb,outcome
+2316,2318,196456,Gallstone,outcome
+2316,2318,4007453,Gammopathy,outcome
+2316,2318,441788,Human papilloma virus infection,outcome
+2316,2318,197032,Hyperplasia of prostate,outcome
+2316,2318,4208390,Inflammation of sacroiliac joint,outcome
+2316,2318,139099,Ingrowing nail,outcome
+2316,2318,4112853,Malignant tumor of breast,outcome
+2316,2318,374919,Multiple sclerosis,outcome
+2316,2318,24134,Neck pain,outcome
+2316,2318,433736,Obesity,outcome
+2316,2318,141663,Osteomyelitis,outcome
+2316,2318,372328,Otitis media,outcome
+2316,2318,78162,Peripheral vertigo,outcome
+2316,2318,4002650,Plantar fasciitis,outcome
+2316,2318,373478,Presbyopia,outcome
+2316,2318,199876,Prolapse of female genital organs,outcome
+2316,2318,436073,Psychotic disorder,outcome
+2316,2318,4174977,Retinopathy due to diabetes mellitus,outcome
+2316,2318,141932,Senile hyperkeratosis,outcome
+2316,2318,141825,Simple goiter,outcome
+2316,2318,313459,Sleep apnea,outcome
+2316,2318,4077081,Superficial mycosis,outcome
+2316,2318,193326,Urge incontinence of urine,outcome
+2316,2318,81902,Urinary tract infectious disease,outcome
+2316,2318,140641,Verruca vulgaris,outcome
+2316,2317,437643,Abnormal gait,outcome
+2316,2317,260139,Acute bronchitis,outcome
+2316,2317,257007,Allergic rhinitis,outcome
+2316,2317,442077,Anxiety disorder,outcome
+2316,2317,4153359,Arthritis of spine,outcome
+2316,2317,4324765,Arthropathy of knee joint,outcome
+2316,2317,261880,Atelectasis,outcome
+2316,2317,443344,Barrett's esophagus,outcome
+2316,2317,378425,Blepharitis,outcome
+2316,2317,256449,Bronchiectasis,outcome
+2316,2317,313791,Bundle branch block,outcome
+2316,2317,435613,Cellulitis,outcome
+2316,2317,257012,Chronic sinusitis,outcome
+2316,2317,134441,Chronic ulcer of skin,outcome
+2316,2317,4150614,Communication disorder,outcome
+2316,2317,201606,Crohn's disease,outcome
+2316,2317,73302,Curvature of spine,outcome
+2316,2317,4242416,Cutis laxa,outcome
+2316,2317,74726,Dislocation of joint,outcome
+2316,2317,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2316,2317,435657,Dyssomnia,outcome
+2316,2317,197684,Dysuria,outcome
+2316,2317,79903,Effusion of joint,outcome
+2316,2317,4050747,Fracture of upper limb,outcome
+2316,2317,196456,Gallstone,outcome
+2316,2317,4007453,Gammopathy,outcome
+2316,2317,441788,Human papilloma virus infection,outcome
+2316,2317,197032,Hyperplasia of prostate,outcome
+2316,2317,4208390,Inflammation of sacroiliac joint,outcome
+2316,2317,139099,Ingrowing nail,outcome
+2316,2317,4112853,Malignant tumor of breast,outcome
+2316,2317,374919,Multiple sclerosis,outcome
+2316,2317,24134,Neck pain,outcome
+2316,2317,433736,Obesity,outcome
+2316,2317,141663,Osteomyelitis,outcome
+2316,2317,372328,Otitis media,outcome
+2316,2317,78162,Peripheral vertigo,outcome
+2316,2317,4002650,Plantar fasciitis,outcome
+2316,2317,373478,Presbyopia,outcome
+2316,2317,199876,Prolapse of female genital organs,outcome
+2316,2317,436073,Psychotic disorder,outcome
+2316,2317,4174977,Retinopathy due to diabetes mellitus,outcome
+2316,2317,141932,Senile hyperkeratosis,outcome
+2316,2317,141825,Simple goiter,outcome
+2316,2317,313459,Sleep apnea,outcome
+2316,2317,4077081,Superficial mycosis,outcome
+2316,2317,193326,Urge incontinence of urine,outcome
+2316,2317,81902,Urinary tract infectious disease,outcome
+2316,2317,140641,Verruca vulgaris,outcome
+2648,2646,437643,Abnormal gait,outcome
+2648,2646,260139,Acute bronchitis,outcome
+2648,2646,257007,Allergic rhinitis,outcome
+2648,2646,442077,Anxiety disorder,outcome
+2648,2646,4153359,Arthritis of spine,outcome
+2648,2646,4324765,Arthropathy of knee joint,outcome
+2648,2646,261880,Atelectasis,outcome
+2648,2646,443344,Barrett's esophagus,outcome
+2648,2646,378425,Blepharitis,outcome
+2648,2646,256449,Bronchiectasis,outcome
+2648,2646,313791,Bundle branch block,outcome
+2648,2646,435613,Cellulitis,outcome
+2648,2646,257012,Chronic sinusitis,outcome
+2648,2646,134441,Chronic ulcer of skin,outcome
+2648,2646,4150614,Communication disorder,outcome
+2648,2646,201606,Crohn's disease,outcome
+2648,2646,73302,Curvature of spine,outcome
+2648,2646,4242416,Cutis laxa,outcome
+2648,2646,74726,Dislocation of joint,outcome
+2648,2646,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2648,2646,435657,Dyssomnia,outcome
+2648,2646,197684,Dysuria,outcome
+2648,2646,79903,Effusion of joint,outcome
+2648,2646,4050747,Fracture of upper limb,outcome
+2648,2646,196456,Gallstone,outcome
+2648,2646,4007453,Gammopathy,outcome
+2648,2646,441788,Human papilloma virus infection,outcome
+2648,2646,197032,Hyperplasia of prostate,outcome
+2648,2646,4208390,Inflammation of sacroiliac joint,outcome
+2648,2646,139099,Ingrowing nail,outcome
+2648,2646,4112853,Malignant tumor of breast,outcome
+2648,2646,374919,Multiple sclerosis,outcome
+2648,2646,24134,Neck pain,outcome
+2648,2646,433736,Obesity,outcome
+2648,2646,141663,Osteomyelitis,outcome
+2648,2646,372328,Otitis media,outcome
+2648,2646,78162,Peripheral vertigo,outcome
+2648,2646,4002650,Plantar fasciitis,outcome
+2648,2646,373478,Presbyopia,outcome
+2648,2646,199876,Prolapse of female genital organs,outcome
+2648,2646,436073,Psychotic disorder,outcome
+2648,2646,4174977,Retinopathy due to diabetes mellitus,outcome
+2648,2646,141932,Senile hyperkeratosis,outcome
+2648,2646,141825,Simple goiter,outcome
+2648,2646,313459,Sleep apnea,outcome
+2648,2646,4077081,Superficial mycosis,outcome
+2648,2646,193326,Urge incontinence of urine,outcome
+2648,2646,81902,Urinary tract infectious disease,outcome
+2648,2646,140641,Verruca vulgaris,outcome
+2650,2646,437643,Abnormal gait,outcome
+2650,2646,260139,Acute bronchitis,outcome
+2650,2646,257007,Allergic rhinitis,outcome
+2650,2646,442077,Anxiety disorder,outcome
+2650,2646,4153359,Arthritis of spine,outcome
+2650,2646,4324765,Arthropathy of knee joint,outcome
+2650,2646,261880,Atelectasis,outcome
+2650,2646,443344,Barrett's esophagus,outcome
+2650,2646,378425,Blepharitis,outcome
+2650,2646,256449,Bronchiectasis,outcome
+2650,2646,313791,Bundle branch block,outcome
+2650,2646,435613,Cellulitis,outcome
+2650,2646,257012,Chronic sinusitis,outcome
+2650,2646,134441,Chronic ulcer of skin,outcome
+2650,2646,4150614,Communication disorder,outcome
+2650,2646,201606,Crohn's disease,outcome
+2650,2646,73302,Curvature of spine,outcome
+2650,2646,4242416,Cutis laxa,outcome
+2650,2646,74726,Dislocation of joint,outcome
+2650,2646,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2650,2646,435657,Dyssomnia,outcome
+2650,2646,197684,Dysuria,outcome
+2650,2646,79903,Effusion of joint,outcome
+2650,2646,4050747,Fracture of upper limb,outcome
+2650,2646,196456,Gallstone,outcome
+2650,2646,4007453,Gammopathy,outcome
+2650,2646,441788,Human papilloma virus infection,outcome
+2650,2646,197032,Hyperplasia of prostate,outcome
+2650,2646,4208390,Inflammation of sacroiliac joint,outcome
+2650,2646,139099,Ingrowing nail,outcome
+2650,2646,4112853,Malignant tumor of breast,outcome
+2650,2646,374919,Multiple sclerosis,outcome
+2650,2646,24134,Neck pain,outcome
+2650,2646,433736,Obesity,outcome
+2650,2646,141663,Osteomyelitis,outcome
+2650,2646,372328,Otitis media,outcome
+2650,2646,78162,Peripheral vertigo,outcome
+2650,2646,4002650,Plantar fasciitis,outcome
+2650,2646,373478,Presbyopia,outcome
+2650,2646,199876,Prolapse of female genital organs,outcome
+2650,2646,436073,Psychotic disorder,outcome
+2650,2646,4174977,Retinopathy due to diabetes mellitus,outcome
+2650,2646,141932,Senile hyperkeratosis,outcome
+2650,2646,141825,Simple goiter,outcome
+2650,2646,313459,Sleep apnea,outcome
+2650,2646,4077081,Superficial mycosis,outcome
+2650,2646,193326,Urge incontinence of urine,outcome
+2650,2646,81902,Urinary tract infectious disease,outcome
+2650,2646,140641,Verruca vulgaris,outcome
+2663,2665,437643,Abnormal gait,outcome
+2663,2665,260139,Acute bronchitis,outcome
+2663,2665,257007,Allergic rhinitis,outcome
+2663,2665,442077,Anxiety disorder,outcome
+2663,2665,4153359,Arthritis of spine,outcome
+2663,2665,4324765,Arthropathy of knee joint,outcome
+2663,2665,261880,Atelectasis,outcome
+2663,2665,443344,Barrett's esophagus,outcome
+2663,2665,378425,Blepharitis,outcome
+2663,2665,256449,Bronchiectasis,outcome
+2663,2665,313791,Bundle branch block,outcome
+2663,2665,435613,Cellulitis,outcome
+2663,2665,257012,Chronic sinusitis,outcome
+2663,2665,134441,Chronic ulcer of skin,outcome
+2663,2665,4150614,Communication disorder,outcome
+2663,2665,201606,Crohn's disease,outcome
+2663,2665,73302,Curvature of spine,outcome
+2663,2665,4242416,Cutis laxa,outcome
+2663,2665,74726,Dislocation of joint,outcome
+2663,2665,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2663,2665,435657,Dyssomnia,outcome
+2663,2665,197684,Dysuria,outcome
+2663,2665,79903,Effusion of joint,outcome
+2663,2665,4050747,Fracture of upper limb,outcome
+2663,2665,196456,Gallstone,outcome
+2663,2665,4007453,Gammopathy,outcome
+2663,2665,441788,Human papilloma virus infection,outcome
+2663,2665,197032,Hyperplasia of prostate,outcome
+2663,2665,4208390,Inflammation of sacroiliac joint,outcome
+2663,2665,139099,Ingrowing nail,outcome
+2663,2665,4112853,Malignant tumor of breast,outcome
+2663,2665,374919,Multiple sclerosis,outcome
+2663,2665,24134,Neck pain,outcome
+2663,2665,433736,Obesity,outcome
+2663,2665,141663,Osteomyelitis,outcome
+2663,2665,372328,Otitis media,outcome
+2663,2665,78162,Peripheral vertigo,outcome
+2663,2665,4002650,Plantar fasciitis,outcome
+2663,2665,373478,Presbyopia,outcome
+2663,2665,199876,Prolapse of female genital organs,outcome
+2663,2665,436073,Psychotic disorder,outcome
+2663,2665,4174977,Retinopathy due to diabetes mellitus,outcome
+2663,2665,141932,Senile hyperkeratosis,outcome
+2663,2665,141825,Simple goiter,outcome
+2663,2665,313459,Sleep apnea,outcome
+2663,2665,4077081,Superficial mycosis,outcome
+2663,2665,193326,Urge incontinence of urine,outcome
+2663,2665,81902,Urinary tract infectious disease,outcome
+2663,2665,140641,Verruca vulgaris,outcome
 2665,2662,437643,Abnormal gait,outcome
 2665,2662,260139,Acute bronchitis,outcome
 2665,2662,257007,Allergic rhinitis,outcome
@@ -881,55 +881,55 @@ targetId,comparatorId,outcomeId,outcomeName,type
 2650,2652,193326,Urge incontinence of urine,outcome
 2650,2652,81902,Urinary tract infectious disease,outcome
 2650,2652,140641,Verruca vulgaris,outcome
-2649,2647,437643,Abnormal gait,outcome
-2649,2647,260139,Acute bronchitis,outcome
-2649,2647,257007,Allergic rhinitis,outcome
-2649,2647,442077,Anxiety disorder,outcome
-2649,2647,4153359,Arthritis of spine,outcome
-2649,2647,4324765,Arthropathy of knee joint,outcome
-2649,2647,261880,Atelectasis,outcome
-2649,2647,443344,Barrett's esophagus,outcome
-2649,2647,378425,Blepharitis,outcome
-2649,2647,256449,Bronchiectasis,outcome
-2649,2647,313791,Bundle branch block,outcome
-2649,2647,435613,Cellulitis,outcome
-2649,2647,257012,Chronic sinusitis,outcome
-2649,2647,134441,Chronic ulcer of skin,outcome
-2649,2647,4150614,Communication disorder,outcome
-2649,2647,201606,Crohn's disease,outcome
-2649,2647,73302,Curvature of spine,outcome
-2649,2647,4242416,Cutis laxa,outcome
-2649,2647,74726,Dislocation of joint,outcome
-2649,2647,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2649,2647,435657,Dyssomnia,outcome
-2649,2647,197684,Dysuria,outcome
-2649,2647,79903,Effusion of joint,outcome
-2649,2647,4050747,Fracture of upper limb,outcome
-2649,2647,196456,Gallstone,outcome
-2649,2647,4007453,Gammopathy,outcome
-2649,2647,441788,Human papilloma virus infection,outcome
-2649,2647,197032,Hyperplasia of prostate,outcome
-2649,2647,4208390,Inflammation of sacroiliac joint,outcome
-2649,2647,139099,Ingrowing nail,outcome
-2649,2647,4112853,Malignant tumor of breast,outcome
-2649,2647,374919,Multiple sclerosis,outcome
-2649,2647,24134,Neck pain,outcome
-2649,2647,433736,Obesity,outcome
-2649,2647,141663,Osteomyelitis,outcome
-2649,2647,372328,Otitis media,outcome
-2649,2647,78162,Peripheral vertigo,outcome
-2649,2647,4002650,Plantar fasciitis,outcome
-2649,2647,373478,Presbyopia,outcome
-2649,2647,199876,Prolapse of female genital organs,outcome
-2649,2647,436073,Psychotic disorder,outcome
-2649,2647,4174977,Retinopathy due to diabetes mellitus,outcome
-2649,2647,141932,Senile hyperkeratosis,outcome
-2649,2647,141825,Simple goiter,outcome
-2649,2647,313459,Sleep apnea,outcome
-2649,2647,4077081,Superficial mycosis,outcome
-2649,2647,193326,Urge incontinence of urine,outcome
-2649,2647,81902,Urinary tract infectious disease,outcome
-2649,2647,140641,Verruca vulgaris,outcome
+2647,2649,437643,Abnormal gait,outcome
+2647,2649,260139,Acute bronchitis,outcome
+2647,2649,257007,Allergic rhinitis,outcome
+2647,2649,442077,Anxiety disorder,outcome
+2647,2649,4153359,Arthritis of spine,outcome
+2647,2649,4324765,Arthropathy of knee joint,outcome
+2647,2649,261880,Atelectasis,outcome
+2647,2649,443344,Barrett's esophagus,outcome
+2647,2649,378425,Blepharitis,outcome
+2647,2649,256449,Bronchiectasis,outcome
+2647,2649,313791,Bundle branch block,outcome
+2647,2649,435613,Cellulitis,outcome
+2647,2649,257012,Chronic sinusitis,outcome
+2647,2649,134441,Chronic ulcer of skin,outcome
+2647,2649,4150614,Communication disorder,outcome
+2647,2649,201606,Crohn's disease,outcome
+2647,2649,73302,Curvature of spine,outcome
+2647,2649,4242416,Cutis laxa,outcome
+2647,2649,74726,Dislocation of joint,outcome
+2647,2649,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2647,2649,435657,Dyssomnia,outcome
+2647,2649,197684,Dysuria,outcome
+2647,2649,79903,Effusion of joint,outcome
+2647,2649,4050747,Fracture of upper limb,outcome
+2647,2649,196456,Gallstone,outcome
+2647,2649,4007453,Gammopathy,outcome
+2647,2649,441788,Human papilloma virus infection,outcome
+2647,2649,197032,Hyperplasia of prostate,outcome
+2647,2649,4208390,Inflammation of sacroiliac joint,outcome
+2647,2649,139099,Ingrowing nail,outcome
+2647,2649,4112853,Malignant tumor of breast,outcome
+2647,2649,374919,Multiple sclerosis,outcome
+2647,2649,24134,Neck pain,outcome
+2647,2649,433736,Obesity,outcome
+2647,2649,141663,Osteomyelitis,outcome
+2647,2649,372328,Otitis media,outcome
+2647,2649,78162,Peripheral vertigo,outcome
+2647,2649,4002650,Plantar fasciitis,outcome
+2647,2649,373478,Presbyopia,outcome
+2647,2649,199876,Prolapse of female genital organs,outcome
+2647,2649,436073,Psychotic disorder,outcome
+2647,2649,4174977,Retinopathy due to diabetes mellitus,outcome
+2647,2649,141932,Senile hyperkeratosis,outcome
+2647,2649,141825,Simple goiter,outcome
+2647,2649,313459,Sleep apnea,outcome
+2647,2649,4077081,Superficial mycosis,outcome
+2647,2649,193326,Urge incontinence of urine,outcome
+2647,2649,81902,Urinary tract infectious disease,outcome
+2647,2649,140641,Verruca vulgaris,outcome
 2649,2651,437643,Abnormal gait,outcome
 2649,2651,260139,Acute bronchitis,outcome
 2649,2651,257007,Allergic rhinitis,outcome
@@ -1077,55 +1077,55 @@ targetId,comparatorId,outcomeId,outcomeName,type
 2647,2651,193326,Urge incontinence of urine,outcome
 2647,2651,81902,Urinary tract infectious disease,outcome
 2647,2651,140641,Verruca vulgaris,outcome
-2651,2418,437643,Abnormal gait,outcome
-2651,2418,260139,Acute bronchitis,outcome
-2651,2418,257007,Allergic rhinitis,outcome
-2651,2418,442077,Anxiety disorder,outcome
-2651,2418,4153359,Arthritis of spine,outcome
-2651,2418,4324765,Arthropathy of knee joint,outcome
-2651,2418,261880,Atelectasis,outcome
-2651,2418,443344,Barrett's esophagus,outcome
-2651,2418,378425,Blepharitis,outcome
-2651,2418,256449,Bronchiectasis,outcome
-2651,2418,313791,Bundle branch block,outcome
-2651,2418,435613,Cellulitis,outcome
-2651,2418,257012,Chronic sinusitis,outcome
-2651,2418,134441,Chronic ulcer of skin,outcome
-2651,2418,4150614,Communication disorder,outcome
-2651,2418,201606,Crohn's disease,outcome
-2651,2418,73302,Curvature of spine,outcome
-2651,2418,4242416,Cutis laxa,outcome
-2651,2418,74726,Dislocation of joint,outcome
-2651,2418,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2651,2418,435657,Dyssomnia,outcome
-2651,2418,197684,Dysuria,outcome
-2651,2418,79903,Effusion of joint,outcome
-2651,2418,4050747,Fracture of upper limb,outcome
-2651,2418,196456,Gallstone,outcome
-2651,2418,4007453,Gammopathy,outcome
-2651,2418,441788,Human papilloma virus infection,outcome
-2651,2418,197032,Hyperplasia of prostate,outcome
-2651,2418,4208390,Inflammation of sacroiliac joint,outcome
-2651,2418,139099,Ingrowing nail,outcome
-2651,2418,4112853,Malignant tumor of breast,outcome
-2651,2418,374919,Multiple sclerosis,outcome
-2651,2418,24134,Neck pain,outcome
-2651,2418,433736,Obesity,outcome
-2651,2418,141663,Osteomyelitis,outcome
-2651,2418,372328,Otitis media,outcome
-2651,2418,78162,Peripheral vertigo,outcome
-2651,2418,4002650,Plantar fasciitis,outcome
-2651,2418,373478,Presbyopia,outcome
-2651,2418,199876,Prolapse of female genital organs,outcome
-2651,2418,436073,Psychotic disorder,outcome
-2651,2418,4174977,Retinopathy due to diabetes mellitus,outcome
-2651,2418,141932,Senile hyperkeratosis,outcome
-2651,2418,141825,Simple goiter,outcome
-2651,2418,313459,Sleep apnea,outcome
-2651,2418,4077081,Superficial mycosis,outcome
-2651,2418,193326,Urge incontinence of urine,outcome
-2651,2418,81902,Urinary tract infectious disease,outcome
-2651,2418,140641,Verruca vulgaris,outcome
+2418,2651,437643,Abnormal gait,outcome
+2418,2651,260139,Acute bronchitis,outcome
+2418,2651,257007,Allergic rhinitis,outcome
+2418,2651,442077,Anxiety disorder,outcome
+2418,2651,4153359,Arthritis of spine,outcome
+2418,2651,4324765,Arthropathy of knee joint,outcome
+2418,2651,261880,Atelectasis,outcome
+2418,2651,443344,Barrett's esophagus,outcome
+2418,2651,378425,Blepharitis,outcome
+2418,2651,256449,Bronchiectasis,outcome
+2418,2651,313791,Bundle branch block,outcome
+2418,2651,435613,Cellulitis,outcome
+2418,2651,257012,Chronic sinusitis,outcome
+2418,2651,134441,Chronic ulcer of skin,outcome
+2418,2651,4150614,Communication disorder,outcome
+2418,2651,201606,Crohn's disease,outcome
+2418,2651,73302,Curvature of spine,outcome
+2418,2651,4242416,Cutis laxa,outcome
+2418,2651,74726,Dislocation of joint,outcome
+2418,2651,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2418,2651,435657,Dyssomnia,outcome
+2418,2651,197684,Dysuria,outcome
+2418,2651,79903,Effusion of joint,outcome
+2418,2651,4050747,Fracture of upper limb,outcome
+2418,2651,196456,Gallstone,outcome
+2418,2651,4007453,Gammopathy,outcome
+2418,2651,441788,Human papilloma virus infection,outcome
+2418,2651,197032,Hyperplasia of prostate,outcome
+2418,2651,4208390,Inflammation of sacroiliac joint,outcome
+2418,2651,139099,Ingrowing nail,outcome
+2418,2651,4112853,Malignant tumor of breast,outcome
+2418,2651,374919,Multiple sclerosis,outcome
+2418,2651,24134,Neck pain,outcome
+2418,2651,433736,Obesity,outcome
+2418,2651,141663,Osteomyelitis,outcome
+2418,2651,372328,Otitis media,outcome
+2418,2651,78162,Peripheral vertigo,outcome
+2418,2651,4002650,Plantar fasciitis,outcome
+2418,2651,373478,Presbyopia,outcome
+2418,2651,199876,Prolapse of female genital organs,outcome
+2418,2651,436073,Psychotic disorder,outcome
+2418,2651,4174977,Retinopathy due to diabetes mellitus,outcome
+2418,2651,141932,Senile hyperkeratosis,outcome
+2418,2651,141825,Simple goiter,outcome
+2418,2651,313459,Sleep apnea,outcome
+2418,2651,4077081,Superficial mycosis,outcome
+2418,2651,193326,Urge incontinence of urine,outcome
+2418,2651,81902,Urinary tract infectious disease,outcome
+2418,2651,140641,Verruca vulgaris,outcome
 2647,2418,437643,Abnormal gait,outcome
 2647,2418,260139,Acute bronchitis,outcome
 2647,2418,257007,Allergic rhinitis,outcome
@@ -1224,55 +1224,55 @@ targetId,comparatorId,outcomeId,outcomeName,type
 2666,2667,193326,Urge incontinence of urine,outcome
 2666,2667,81902,Urinary tract infectious disease,outcome
 2666,2667,140641,Verruca vulgaris,outcome
-2666,2668,437643,Abnormal gait,outcome
-2666,2668,260139,Acute bronchitis,outcome
-2666,2668,257007,Allergic rhinitis,outcome
-2666,2668,442077,Anxiety disorder,outcome
-2666,2668,4153359,Arthritis of spine,outcome
-2666,2668,4324765,Arthropathy of knee joint,outcome
-2666,2668,261880,Atelectasis,outcome
-2666,2668,443344,Barrett's esophagus,outcome
-2666,2668,378425,Blepharitis,outcome
-2666,2668,256449,Bronchiectasis,outcome
-2666,2668,313791,Bundle branch block,outcome
-2666,2668,435613,Cellulitis,outcome
-2666,2668,257012,Chronic sinusitis,outcome
-2666,2668,134441,Chronic ulcer of skin,outcome
-2666,2668,4150614,Communication disorder,outcome
-2666,2668,201606,Crohn's disease,outcome
-2666,2668,73302,Curvature of spine,outcome
-2666,2668,4242416,Cutis laxa,outcome
-2666,2668,74726,Dislocation of joint,outcome
-2666,2668,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2666,2668,435657,Dyssomnia,outcome
-2666,2668,197684,Dysuria,outcome
-2666,2668,79903,Effusion of joint,outcome
-2666,2668,4050747,Fracture of upper limb,outcome
-2666,2668,196456,Gallstone,outcome
-2666,2668,4007453,Gammopathy,outcome
-2666,2668,441788,Human papilloma virus infection,outcome
-2666,2668,197032,Hyperplasia of prostate,outcome
-2666,2668,4208390,Inflammation of sacroiliac joint,outcome
-2666,2668,139099,Ingrowing nail,outcome
-2666,2668,4112853,Malignant tumor of breast,outcome
-2666,2668,374919,Multiple sclerosis,outcome
-2666,2668,24134,Neck pain,outcome
-2666,2668,433736,Obesity,outcome
-2666,2668,141663,Osteomyelitis,outcome
-2666,2668,372328,Otitis media,outcome
-2666,2668,78162,Peripheral vertigo,outcome
-2666,2668,4002650,Plantar fasciitis,outcome
-2666,2668,373478,Presbyopia,outcome
-2666,2668,199876,Prolapse of female genital organs,outcome
-2666,2668,436073,Psychotic disorder,outcome
-2666,2668,4174977,Retinopathy due to diabetes mellitus,outcome
-2666,2668,141932,Senile hyperkeratosis,outcome
-2666,2668,141825,Simple goiter,outcome
-2666,2668,313459,Sleep apnea,outcome
-2666,2668,4077081,Superficial mycosis,outcome
-2666,2668,193326,Urge incontinence of urine,outcome
-2666,2668,81902,Urinary tract infectious disease,outcome
-2666,2668,140641,Verruca vulgaris,outcome
+2668,2666,437643,Abnormal gait,outcome
+2668,2666,260139,Acute bronchitis,outcome
+2668,2666,257007,Allergic rhinitis,outcome
+2668,2666,442077,Anxiety disorder,outcome
+2668,2666,4153359,Arthritis of spine,outcome
+2668,2666,4324765,Arthropathy of knee joint,outcome
+2668,2666,261880,Atelectasis,outcome
+2668,2666,443344,Barrett's esophagus,outcome
+2668,2666,378425,Blepharitis,outcome
+2668,2666,256449,Bronchiectasis,outcome
+2668,2666,313791,Bundle branch block,outcome
+2668,2666,435613,Cellulitis,outcome
+2668,2666,257012,Chronic sinusitis,outcome
+2668,2666,134441,Chronic ulcer of skin,outcome
+2668,2666,4150614,Communication disorder,outcome
+2668,2666,201606,Crohn's disease,outcome
+2668,2666,73302,Curvature of spine,outcome
+2668,2666,4242416,Cutis laxa,outcome
+2668,2666,74726,Dislocation of joint,outcome
+2668,2666,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2668,2666,435657,Dyssomnia,outcome
+2668,2666,197684,Dysuria,outcome
+2668,2666,79903,Effusion of joint,outcome
+2668,2666,4050747,Fracture of upper limb,outcome
+2668,2666,196456,Gallstone,outcome
+2668,2666,4007453,Gammopathy,outcome
+2668,2666,441788,Human papilloma virus infection,outcome
+2668,2666,197032,Hyperplasia of prostate,outcome
+2668,2666,4208390,Inflammation of sacroiliac joint,outcome
+2668,2666,139099,Ingrowing nail,outcome
+2668,2666,4112853,Malignant tumor of breast,outcome
+2668,2666,374919,Multiple sclerosis,outcome
+2668,2666,24134,Neck pain,outcome
+2668,2666,433736,Obesity,outcome
+2668,2666,141663,Osteomyelitis,outcome
+2668,2666,372328,Otitis media,outcome
+2668,2666,78162,Peripheral vertigo,outcome
+2668,2666,4002650,Plantar fasciitis,outcome
+2668,2666,373478,Presbyopia,outcome
+2668,2666,199876,Prolapse of female genital organs,outcome
+2668,2666,436073,Psychotic disorder,outcome
+2668,2666,4174977,Retinopathy due to diabetes mellitus,outcome
+2668,2666,141932,Senile hyperkeratosis,outcome
+2668,2666,141825,Simple goiter,outcome
+2668,2666,313459,Sleep apnea,outcome
+2668,2666,4077081,Superficial mycosis,outcome
+2668,2666,193326,Urge incontinence of urine,outcome
+2668,2666,81902,Urinary tract infectious disease,outcome
+2668,2666,140641,Verruca vulgaris,outcome
 2666,2669,437643,Abnormal gait,outcome
 2666,2669,260139,Acute bronchitis,outcome
 2666,2669,257007,Allergic rhinitis,outcome
@@ -1322,104 +1322,104 @@ targetId,comparatorId,outcomeId,outcomeName,type
 2666,2669,193326,Urge incontinence of urine,outcome
 2666,2669,81902,Urinary tract infectious disease,outcome
 2666,2669,140641,Verruca vulgaris,outcome
-2667,2668,437643,Abnormal gait,outcome
-2667,2668,260139,Acute bronchitis,outcome
-2667,2668,257007,Allergic rhinitis,outcome
-2667,2668,442077,Anxiety disorder,outcome
-2667,2668,4153359,Arthritis of spine,outcome
-2667,2668,4324765,Arthropathy of knee joint,outcome
-2667,2668,261880,Atelectasis,outcome
-2667,2668,443344,Barrett's esophagus,outcome
-2667,2668,378425,Blepharitis,outcome
-2667,2668,256449,Bronchiectasis,outcome
-2667,2668,313791,Bundle branch block,outcome
-2667,2668,435613,Cellulitis,outcome
-2667,2668,257012,Chronic sinusitis,outcome
-2667,2668,134441,Chronic ulcer of skin,outcome
-2667,2668,4150614,Communication disorder,outcome
-2667,2668,201606,Crohn's disease,outcome
-2667,2668,73302,Curvature of spine,outcome
-2667,2668,4242416,Cutis laxa,outcome
-2667,2668,74726,Dislocation of joint,outcome
-2667,2668,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2667,2668,435657,Dyssomnia,outcome
-2667,2668,197684,Dysuria,outcome
-2667,2668,79903,Effusion of joint,outcome
-2667,2668,4050747,Fracture of upper limb,outcome
-2667,2668,196456,Gallstone,outcome
-2667,2668,4007453,Gammopathy,outcome
-2667,2668,441788,Human papilloma virus infection,outcome
-2667,2668,197032,Hyperplasia of prostate,outcome
-2667,2668,4208390,Inflammation of sacroiliac joint,outcome
-2667,2668,139099,Ingrowing nail,outcome
-2667,2668,4112853,Malignant tumor of breast,outcome
-2667,2668,374919,Multiple sclerosis,outcome
-2667,2668,24134,Neck pain,outcome
-2667,2668,433736,Obesity,outcome
-2667,2668,141663,Osteomyelitis,outcome
-2667,2668,372328,Otitis media,outcome
-2667,2668,78162,Peripheral vertigo,outcome
-2667,2668,4002650,Plantar fasciitis,outcome
-2667,2668,373478,Presbyopia,outcome
-2667,2668,199876,Prolapse of female genital organs,outcome
-2667,2668,436073,Psychotic disorder,outcome
-2667,2668,4174977,Retinopathy due to diabetes mellitus,outcome
-2667,2668,141932,Senile hyperkeratosis,outcome
-2667,2668,141825,Simple goiter,outcome
-2667,2668,313459,Sleep apnea,outcome
-2667,2668,4077081,Superficial mycosis,outcome
-2667,2668,193326,Urge incontinence of urine,outcome
-2667,2668,81902,Urinary tract infectious disease,outcome
-2667,2668,140641,Verruca vulgaris,outcome
-2667,2669,437643,Abnormal gait,outcome
-2667,2669,260139,Acute bronchitis,outcome
-2667,2669,257007,Allergic rhinitis,outcome
-2667,2669,442077,Anxiety disorder,outcome
-2667,2669,4153359,Arthritis of spine,outcome
-2667,2669,4324765,Arthropathy of knee joint,outcome
-2667,2669,261880,Atelectasis,outcome
-2667,2669,443344,Barrett's esophagus,outcome
-2667,2669,378425,Blepharitis,outcome
-2667,2669,256449,Bronchiectasis,outcome
-2667,2669,313791,Bundle branch block,outcome
-2667,2669,435613,Cellulitis,outcome
-2667,2669,257012,Chronic sinusitis,outcome
-2667,2669,134441,Chronic ulcer of skin,outcome
-2667,2669,4150614,Communication disorder,outcome
-2667,2669,201606,Crohn's disease,outcome
-2667,2669,73302,Curvature of spine,outcome
-2667,2669,4242416,Cutis laxa,outcome
-2667,2669,74726,Dislocation of joint,outcome
-2667,2669,443730,Disorder of nervous system due to diabetes mellitus,outcome
-2667,2669,435657,Dyssomnia,outcome
-2667,2669,197684,Dysuria,outcome
-2667,2669,79903,Effusion of joint,outcome
-2667,2669,4050747,Fracture of upper limb,outcome
-2667,2669,196456,Gallstone,outcome
-2667,2669,4007453,Gammopathy,outcome
-2667,2669,441788,Human papilloma virus infection,outcome
-2667,2669,197032,Hyperplasia of prostate,outcome
-2667,2669,4208390,Inflammation of sacroiliac joint,outcome
-2667,2669,139099,Ingrowing nail,outcome
-2667,2669,4112853,Malignant tumor of breast,outcome
-2667,2669,374919,Multiple sclerosis,outcome
-2667,2669,24134,Neck pain,outcome
-2667,2669,433736,Obesity,outcome
-2667,2669,141663,Osteomyelitis,outcome
-2667,2669,372328,Otitis media,outcome
-2667,2669,78162,Peripheral vertigo,outcome
-2667,2669,4002650,Plantar fasciitis,outcome
-2667,2669,373478,Presbyopia,outcome
-2667,2669,199876,Prolapse of female genital organs,outcome
-2667,2669,436073,Psychotic disorder,outcome
-2667,2669,4174977,Retinopathy due to diabetes mellitus,outcome
-2667,2669,141932,Senile hyperkeratosis,outcome
-2667,2669,141825,Simple goiter,outcome
-2667,2669,313459,Sleep apnea,outcome
-2667,2669,4077081,Superficial mycosis,outcome
-2667,2669,193326,Urge incontinence of urine,outcome
-2667,2669,81902,Urinary tract infectious disease,outcome
-2667,2669,140641,Verruca vulgaris,outcome
+2668,2667,437643,Abnormal gait,outcome
+2668,2667,260139,Acute bronchitis,outcome
+2668,2667,257007,Allergic rhinitis,outcome
+2668,2667,442077,Anxiety disorder,outcome
+2668,2667,4153359,Arthritis of spine,outcome
+2668,2667,4324765,Arthropathy of knee joint,outcome
+2668,2667,261880,Atelectasis,outcome
+2668,2667,443344,Barrett's esophagus,outcome
+2668,2667,378425,Blepharitis,outcome
+2668,2667,256449,Bronchiectasis,outcome
+2668,2667,313791,Bundle branch block,outcome
+2668,2667,435613,Cellulitis,outcome
+2668,2667,257012,Chronic sinusitis,outcome
+2668,2667,134441,Chronic ulcer of skin,outcome
+2668,2667,4150614,Communication disorder,outcome
+2668,2667,201606,Crohn's disease,outcome
+2668,2667,73302,Curvature of spine,outcome
+2668,2667,4242416,Cutis laxa,outcome
+2668,2667,74726,Dislocation of joint,outcome
+2668,2667,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2668,2667,435657,Dyssomnia,outcome
+2668,2667,197684,Dysuria,outcome
+2668,2667,79903,Effusion of joint,outcome
+2668,2667,4050747,Fracture of upper limb,outcome
+2668,2667,196456,Gallstone,outcome
+2668,2667,4007453,Gammopathy,outcome
+2668,2667,441788,Human papilloma virus infection,outcome
+2668,2667,197032,Hyperplasia of prostate,outcome
+2668,2667,4208390,Inflammation of sacroiliac joint,outcome
+2668,2667,139099,Ingrowing nail,outcome
+2668,2667,4112853,Malignant tumor of breast,outcome
+2668,2667,374919,Multiple sclerosis,outcome
+2668,2667,24134,Neck pain,outcome
+2668,2667,433736,Obesity,outcome
+2668,2667,141663,Osteomyelitis,outcome
+2668,2667,372328,Otitis media,outcome
+2668,2667,78162,Peripheral vertigo,outcome
+2668,2667,4002650,Plantar fasciitis,outcome
+2668,2667,373478,Presbyopia,outcome
+2668,2667,199876,Prolapse of female genital organs,outcome
+2668,2667,436073,Psychotic disorder,outcome
+2668,2667,4174977,Retinopathy due to diabetes mellitus,outcome
+2668,2667,141932,Senile hyperkeratosis,outcome
+2668,2667,141825,Simple goiter,outcome
+2668,2667,313459,Sleep apnea,outcome
+2668,2667,4077081,Superficial mycosis,outcome
+2668,2667,193326,Urge incontinence of urine,outcome
+2668,2667,81902,Urinary tract infectious disease,outcome
+2669,2667,140641,Verruca vulgaris,outcome
+2669,2667,437643,Abnormal gait,outcome
+2669,2667,260139,Acute bronchitis,outcome
+2669,2667,257007,Allergic rhinitis,outcome
+2669,2667,442077,Anxiety disorder,outcome
+2669,2667,4153359,Arthritis of spine,outcome
+2669,2667,4324765,Arthropathy of knee joint,outcome
+2669,2667,261880,Atelectasis,outcome
+2669,2667,443344,Barrett's esophagus,outcome
+2669,2667,378425,Blepharitis,outcome
+2669,2667,256449,Bronchiectasis,outcome
+2669,2667,313791,Bundle branch block,outcome
+2669,2667,435613,Cellulitis,outcome
+2669,2667,257012,Chronic sinusitis,outcome
+2669,2667,134441,Chronic ulcer of skin,outcome
+2669,2667,4150614,Communication disorder,outcome
+2669,2667,201606,Crohn's disease,outcome
+2669,2667,73302,Curvature of spine,outcome
+2669,2667,4242416,Cutis laxa,outcome
+2669,2667,74726,Dislocation of joint,outcome
+2669,2667,443730,Disorder of nervous system due to diabetes mellitus,outcome
+2669,2667,435657,Dyssomnia,outcome
+2669,2667,197684,Dysuria,outcome
+2669,2667,79903,Effusion of joint,outcome
+2669,2667,4050747,Fracture of upper limb,outcome
+2669,2667,196456,Gallstone,outcome
+2669,2667,4007453,Gammopathy,outcome
+2669,2667,441788,Human papilloma virus infection,outcome
+2669,2667,197032,Hyperplasia of prostate,outcome
+2669,2667,4208390,Inflammation of sacroiliac joint,outcome
+2669,2667,139099,Ingrowing nail,outcome
+2669,2667,4112853,Malignant tumor of breast,outcome
+2669,2667,374919,Multiple sclerosis,outcome
+2669,2667,24134,Neck pain,outcome
+2669,2667,433736,Obesity,outcome
+2669,2667,141663,Osteomyelitis,outcome
+2669,2667,372328,Otitis media,outcome
+2669,2667,78162,Peripheral vertigo,outcome
+2669,2667,4002650,Plantar fasciitis,outcome
+2669,2667,373478,Presbyopia,outcome
+2669,2667,199876,Prolapse of female genital organs,outcome
+2669,2667,436073,Psychotic disorder,outcome
+2669,2667,4174977,Retinopathy due to diabetes mellitus,outcome
+2669,2667,141932,Senile hyperkeratosis,outcome
+2669,2667,141825,Simple goiter,outcome
+2669,2667,313459,Sleep apnea,outcome
+2669,2667,4077081,Superficial mycosis,outcome
+2669,2667,193326,Urge incontinence of urine,outcome
+2669,2667,81902,Urinary tract infectious disease,outcome
+2669,2667,140641,Verruca vulgaris,outcome
 2668,2669,437643,Abnormal gait,outcome
 2668,2669,260139,Acute bronchitis,outcome
 2668,2669,257007,Allergic rhinitis,outcome

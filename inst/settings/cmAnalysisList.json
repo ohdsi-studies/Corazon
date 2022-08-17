@@ -8,6 +8,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -1541,7 +1542,7 @@
       "riskWindowEnd": 0,
       "firstExposureOnly": false
     },
-    "description": "Cox regression with propensity score matching: on-treatment",
+    "description": "Propensity score matching (on-treatment)",
     "trimByPsArgs": {
       "trimFraction": 0.05,
       "attr_class": "args"
@@ -1686,6 +1687,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -3219,7 +3221,7 @@
       "riskWindowEnd": 0,
       "firstExposureOnly": false
     },
-    "description": "Cox regression: on-treatment",
+    "description": "Propensity score stratification (on-treatment)",
     "trimByPsArgs": {
       "trimFraction": 0.05,
       "attr_class": "args"
@@ -3364,6 +3366,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -4897,7 +4900,7 @@
       "riskWindowEnd": 99999,
       "firstExposureOnly": false
     },
-    "description": "Cox regression with propensity score matching - intention-to-treat",
+    "description": "Propensity score matching (intention-to-treat)",
     "trimByPsArgs": {
       "trimFraction": 0.05,
       "attr_class": "args"
@@ -5042,6 +5045,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -6575,7 +6579,7 @@
       "riskWindowEnd": 99999,
       "firstExposureOnly": false
     },
-    "description": "Cox regression: intention-to-treat",
+    "description": "Propensity score stratification (intention-to-treat)",
     "trimByPsArgs": {
       "trimFraction": 0.05,
       "attr_class": "args"
