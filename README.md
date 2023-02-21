@@ -12,7 +12,7 @@ OHDSI Comparative effectiveness and safety of direct ORal Anticoagulants in pati
 - Study start date: **22/09/2020**
 - Study end date: **12/2020**
 - Protocol: **[Word Doc](https://github.com/ohdsi-studies/Corazon/blob/master/documents/OHDSI%20Protocol%20CORAZON%20V2.1_clean.docx)**
-- Publications: **-**
+- Publications: **[HERE](https://www.acpjournals.org/doi/10.7326/M22-0511)**
 - Results explorer:
 	- **[CORAZON - Estimation](https://data.ohdsi.org/corazon/)**, 
 	- **[CORAZON - Characterization](https://data.ohdsi.org/DoacCohortDiagnostics/)**
